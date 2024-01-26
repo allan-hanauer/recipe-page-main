@@ -94,3 +94,95 @@ main {
 .bold {
   font-weight: 800;
 }
+
+.sub-title {
+  color: var(--clr-primary-one);
+  font-family: "Young Serif";
+  font-size: 1.75rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  list-style: square;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+ol {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+li {
+  color: var(--clr-primary-one);
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+li>span {
+  color: var(--clr-neutral-five);
+  font-family: Outfit;
+  font-weight: 500;
+}
+
+.border-bottom {
+  border-bottom: 1px solid var(--clr-neutral-three);
+}
+
+.space {
+  padding-left: 10px;
+}
+
+.text-simple {
+  font-family: Outfit;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--clr-neutral-five);
+}
+
+.padd {
+  padding-bottom: 20px;
+}
+
+div.nutri {
+  display: flex;
+  width: 365px;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+div.nutri-main {
+  width: 100%;
+}
+
+.text-nutri {
+  color: var(--clr-neutral-five);
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.bold-nutri {
+  color: var(--clr-primary-one);
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
