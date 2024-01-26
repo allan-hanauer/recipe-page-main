@@ -29,7 +29,7 @@ Contributions to the project are welcome! Feel free to fork the repository, make
 Special thanks to [Name] for inspiration and guidance throughout the development of this project.
 
 ### Get Started:
-Ready to explore some delicious recipes? Visit the [Recipe Book](link-to-live-website) now!
+Ready to explore some delicious recipes? Visit the [Recipe Book]([link-to-live-website](https://allan-hanauer.github.io/recipe-page-main/)) now!
 
 ---
 
