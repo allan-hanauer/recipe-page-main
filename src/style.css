@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Outfit', sans-serif;
+}
+
+:root {
+  --clr-primary-one: hsl(14, 45%, 36%);
+  --clr-primary-two: hsl(332, 51%, 32%);
+  --clr-neutral-one: hsl(0, 0%, 100%);
+  --clr-neutral-two: hsl(330, 100%, 98%);
+  --clr-neutral-three: hsl(30, 54%, 90%);
+  --clr-neutral-four: hsl(30, 18%, 87%);
+  --clr-neutral-five: hsl(30, 10%, 34%);
+  --clr-neutral-six: hsl(24, 5%, 18%);
+}
