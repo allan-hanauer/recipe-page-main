@@ -26,7 +26,7 @@ Recipe Book is a minimalist single-page website dedicated to sharing and organiz
 Contributions to the project are welcome! Feel free to fork the repository, make enhancements or fixes, and submit pull requests. If you have any suggestions or ideas to improve Recipe Book, please open an issue to discuss.
 
 ### Acknowledgements:
-Special thanks to [Name] for inspiration and guidance throughout the development of this project.
+Special thanks to Front-end Mentor for inspiration and guidance throughout the development of this project.
 
 ### Get Started:
 Ready to explore some delicious recipes? Visit the [Recipe Book]([link-to-live-website](https://allan-hanauer.github.io/recipe-page-main/)) now!
