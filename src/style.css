@@ -29,7 +29,10 @@ body {
 }
 
 main {
-  background-color: var(--clr-neutral-two);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--clr-neutral-one);
   padding: 40px;
   margin-top: 125px;
   max-width: 737px;
@@ -66,7 +69,7 @@ main {
   background-color: var(--clr-neutral-two);
   width: 100%;
   border-radius: 10px;
-  padding: 30px;
+  padding: 40px 20px;
   height: 180px;
 }
 
@@ -75,6 +78,7 @@ main {
   font-size: 1.25rem;
   font-style: normal;
   font-weight: 600;
+  margin-top: 32px;
 }
 
 .pre-time .pre-list {
